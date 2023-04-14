@@ -8,7 +8,7 @@
     box-sizing: border-box;
     scroll-padding-top: 2rem;
 }
-/* Some Varibles */
+/* Some Variables */
 :root {
     --main-color: #ffb43a;
     --hover-color: hsl(37, 94%, 57%);
@@ -89,7 +89,7 @@ header {
     padding: 8px 15px;
     background: var(--container-color);
     border-radius: 4rem;
-    margin-right: 1rem;
+    margin-right: 1rem; 
 }
 .search-box .bx {
     font-size: 1.1rem;
@@ -97,7 +97,7 @@ header {
 .search-box .bx:hover {
     color: var(--main-color);
 }
-.search-input {
+#search-input {
     width: 100%;
     border: none;
     outline: none;
@@ -550,7 +550,7 @@ header {
         justify-content: center;
     }
 }
-/* For Medium Devices /TabletEtc */
+/* For Medium Devices / Tablet Etc */
 @media (max-width:768px) {
     .nav {
         padding: 11px 0;
