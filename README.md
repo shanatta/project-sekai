@@ -1,2 +1,2 @@
 # project-sekai
-responsive movies website
+this website is dedicated to Azuru
