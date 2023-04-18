@@ -285,6 +285,12 @@ header {
     justify-content: center;
     margin-top: 2.5rem;
 }
+.prev-page {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 2.5rem;
+}
 .next-btn {
     background: var(--main-color);
     padding: 12px 20px;
@@ -292,6 +298,16 @@ header {
     font-weight: 500;
 }
 .next-btn:hover {
+    background: var(--hover-color);
+    transition: 0.3s all linear;
+}
+.prev-btn {
+    background: var(--main-color);
+    padding: 12px 20px;
+    color: var(--text-color);
+    font-weight: 500;
+}
+.prev-btn:hover {
     background: var(--hover-color);
     transition: 0.3s all linear;
 }
