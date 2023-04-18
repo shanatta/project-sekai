@@ -10,7 +10,7 @@
 
 ## Built With
 
-This project is dedicated to Azuru<br/>
+This project is dedicated to <a href="https://github.com/z-real2828" target="_blank">Azuru</a><br/>
 
 This project was built using these technologies.
 
